@@ -12,7 +12,7 @@ The task 1 includes completion of the following instructions
   <li> Creating GitHub repo. </li>
   <li> Installation of Oracle VirtualBox. </li>
   <li> Installation of RISC-V toolchain using VDI. </li>
-  <li> Writing C program for sum of n numbers. </li>
+  <li> Writing C program to find sum of n numbers. </li>
   <li> Using RISC-V Simulator for compiling and running the code. </li>
   <li> Uploading the snapshots in G. </li>
 </ol>
@@ -21,6 +21,8 @@ The task 1 includes completion of the following instructions
   <OL>
     <li>
       Installation of Oracle VirtualBox.</li>
+      <img src="Screenshot 2024-10-23 103005.png" alt="Description of the image">
+
     
   </OL>
 </h4>
