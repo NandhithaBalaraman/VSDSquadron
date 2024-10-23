@@ -18,12 +18,14 @@ The task 1 includes completion of the following instructions
 </ol>
 <h4>
   STEPS:
+  <br>
   <OL>
     <li>
       Installation of Oracle VirtualBox.</li>
-      <img src="photo1.png"> <br>
+      <img src="photo1.png"> 
       <li>Home screen of Ubuntu.</li>
-      <img src="photo2.png"> <br>
+      <img src="photo2.png">
+    <br>
       <li>Open the terminal.</li>
       <img src="photo3.png"> <br>
       <li>Enter the following instructions shown in image below.Write the c code as shown and save the file.</li>
