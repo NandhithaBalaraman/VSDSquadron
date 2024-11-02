@@ -84,3 +84,13 @@ Task 2 involves completion of the following tasks
   </OL>
 </h4>
  <hr> <hr>
+ <h2> TASK 3</h2>
+<h3>To understand the instruction type and find out instruction type used in previous RISC-V objdump.To find exact 32 bit instruction code. </h3>
+Task 3 involves completion of the following tasks
+<br>
+<ol>
+  <li> List various RISC-V instruction type (R, I, S, B, U, J) after going through RISC-V software documentation </li>
+  <li> Identify 15 unique RISC-V instructions from riscv-objdmp of your application code  </li>
+  <li> Identify exact 32-bit instruction code in the instruction type format for 15 unique instructions </li>
+  <li> Upload the 32-bit pattern on Github </li>
+</ol>
