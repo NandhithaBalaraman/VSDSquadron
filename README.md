@@ -6,7 +6,8 @@ The program is based on RISC-V architecture and uses open-source tools to teach 
 Instructor: Kunal Ghosh
 <hr><hr>
 <p> </p>
-<h2> TASK 1 </h2>
+<detail>
+<summary><h2> TASK 1 </h2></summary>
 <h3> Installation of RISC-V toolchain using VDI. Uploading the snapshot of complied Ccode and RISC-V Objdmp on GitHub</h3>
 <hr>
 The task 1 includes completion of the following instructions
@@ -46,8 +47,10 @@ The task 1 includes completion of the following instructions
         <img src="photo10.png">
   </OL>
 </h4>
+  </detail>
  <hr> <hr>
-<h2> TASK 2 </h2>
+ <details>
+<summary><h2> TASK 2 </h2></summary>
 <h3>Debug the task 1 code using SPIKE. Write a simple c program for any application and compile it with RISC-V GCC/SPIKE </h3>
 Task 2 involves completion of the following tasks
 <br>
@@ -83,8 +86,10 @@ Task 2 involves completion of the following tasks
       
   </OL>
 </h4>
+</details>
  <hr> <hr>
- <h2> TASK 3</h2>
+ <details>
+<summary> <h2> TASK 3</h2></summary>
 <h3>To understand the instruction type and find out instruction type used in previous RISC-V objdump.To find exact 32 bit instruction code. </h3>
 Task 3 involves completion of the following tasks
 <br>
@@ -95,10 +100,40 @@ Task 3 involves completion of the following tasks
   <li> Upload the 32-bit pattern on Github </li>
 </ol>
 
-
+</details>
 
 <hr> <hr>
 <details>
 <summary> <h2> TASK 4</h2> </summary>
-
-
+<h3> To understand how to use given verilog code and testbench and to upload waveform.</h3>
+Task 4 involves completion of the following tasks
+<br>
+<ol>
+  <li> To use RISC-V Core Verilog netlist and testbench for functional simulation experiment.</li>
+  <li>  To upload waveform snapshots on GitHub. </li>
+</ol>
+<h4>
+  STEPS:
+  <br>
+  <OL>
+    <li>
+      Check if GTKWave is installed else install it.</li>
+      <li>Create a directory using mkdir.</li>
+     <li>Create two files one for writing the code and other for writing testbench for it.</li>
+      <img src="task41.png">
+    <br>
+      <li>Photos of the code and testbench written.</li>
+      <img src="code4.png">
+     <img src="tb4.png">
+    <br>
+      <li>Enter the following instructions shown in image below.This code is written to simulate verilog code </li>
+      <img src="task42.png"> <br>
+      <li>Use GTKWave to see the simulation by writing the below code.</li>
+      <img src="task43.png"> <br>
+      <li>Simulation output.</li>
+      <img src="task44.png"> <br>
+        <img src="task45.png">
+  </OL>
+</h4>
+  </detail>
+ <hr> <hr>
