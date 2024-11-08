@@ -6,7 +6,7 @@ The program is based on RISC-V architecture and uses open-source tools to teach 
 Instructor: Kunal Ghosh
 <hr><hr>
 <p> </p>
-<detail>
+<details>
 <summary><h2> TASK 1 </h2></summary>
 <h3> Installation of RISC-V toolchain using VDI. Uploading the snapshot of complied Ccode and RISC-V Objdmp on GitHub</h3>
 <hr>
@@ -47,7 +47,7 @@ The task 1 includes completion of the following instructions
         <img src="photo10.png">
   </OL>
 </h4>
-  </detail>
+  </details>
  <hr> <hr>
  <details>
 <summary><h2> TASK 2 </h2></summary>
@@ -124,6 +124,7 @@ Task 4 involves completion of the following tasks
     <br>
       <li>Photos of the code and testbench written.</li>
       <img src="code4.png">
+    <br>
      <img src="tb4.png">
     <br>
       <li>Enter the following instructions shown in image below.This code is written to simulate verilog code </li>
