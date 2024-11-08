@@ -94,3 +94,11 @@ Task 3 involves completion of the following tasks
   <li> Identify exact 32-bit instruction code in the instruction type format for 15 unique instructions </li>
   <li> Upload the 32-bit pattern on Github </li>
 </ol>
+
+
+
+<hr> <hr>
+<details>
+<summary> <h2> TASK 4</h2> </summary>
+
+
