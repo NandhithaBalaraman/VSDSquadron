@@ -101,14 +101,13 @@ Task 3 involves completion of the following tasks
 </ol>
 
 </details>
+<hr><hr>
 
-<hr> <hr>
 <details>
 <summary> <h2> TASK 4</h2>
 <h3> To understand how to use given verilog code and testbench and to upload waveform.</h3> 
 **NOTE:** SInce the designing of RISCV Architecture and writing it's testbench is not part of this research Internship, so will use the Verilog COde and Testbench of RISCV that has already been designed. This reference GitHub repository is: [iiitb_rv32i](https://github.com/vinayrayapati/rv32i/)**</summary>
 Task 4 involves completion of the following tasks
-
 <br>
 <ol>
   <li> To use RISC-V Core Verilog netlist and testbench for functional simulation experiment.</li>
@@ -138,12 +137,9 @@ Task 4 involves completion of the following tasks
         <img src="task45.png">
   </OL>
 </h4>
-  </detail>
- <hr> <hr>
+  </details>
+<hr><hr>
 <details>
-
-
-  
 <summary> <h2> TASK 5</h2>
 <h3> To create a project using VSDSquadron Mini </h3></summary>
 Task 5 involves the folowing steps:
@@ -153,7 +149,7 @@ Task 5 involves the folowing steps:
   <li>  To upload the overview,components required, circuit connection, pinout diagram and table for Pin connection on GitHub. </li>
 </ol>
 <h4>
- OVERVIEW
+ <b>OVERVIEW:</b>
   <br>
   <OL>
     <li>
@@ -176,5 +172,5 @@ Task 5 involves the folowing steps:
         <img src="task45.png">
   </OL>
 </h4>
-  </detail>
+  </details>
  
