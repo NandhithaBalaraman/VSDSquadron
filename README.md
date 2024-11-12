@@ -7,8 +7,8 @@ Instructor: Kunal Ghosh
 <hr><hr>
 <p> </p>
 <details>
-<summary><h2> TASK 1 </h2></summary>
-<h3> Installation of RISC-V toolchain using VDI. Uploading the snapshot of complied Ccode and RISC-V Objdmp on GitHub</h3>
+<summary><h2> TASK 1 </h2>
+<h3> Installation of RISC-V toolchain using VDI. Uploading the snapshot of complied Ccode and RISC-V Objdmp on GitHub</h3> </summary>
 <hr>
 The task 1 includes completion of the following instructions
 <br>
@@ -50,9 +50,9 @@ The task 1 includes completion of the following instructions
   </details>
  <hr> <hr>
  <details>
-<summary><h2> TASK 2 </h2></summary>
-<h3>Debug the task 1 code using SPIKE. Write a simple c program for any application and compile it with RISC-V GCC/SPIKE </h3>
-Task 2 involves completion of the following tasks
+<summary><h2> TASK 2 </h2>
+<h3>Debug the task 1 code using SPIKE. Write a simple c program for any application and compile it with RISC-V GCC/SPIKE </h3> </summary>
+Tansk 2 involves completion of the following tasks
 <br>
 <ol>
   <li> To use SPIKE and debug sum 1 to n c program </li>
@@ -104,9 +104,11 @@ Task 3 involves completion of the following tasks
 
 <hr> <hr>
 <details>
-<summary> <h2> TASK 4</h2> </summary>
-<h3> To understand how to use given verilog code and testbench and to upload waveform.</h3>
+<summary> <h2> TASK 4</h2>
+<h3> To understand how to use given verilog code and testbench and to upload waveform.</h3> 
+**NOTE:** SInce the designing of RISCV Architecture and writing it's testbench is not part of this research Internship, so will use the Verilog COde and Testbench of RISCV that has already been designed. This reference GitHub repository is: [iiitb_rv32i](https://github.com/vinayrayapati/rv32i/)**</summary>
 Task 4 involves completion of the following tasks
+
 <br>
 <ol>
   <li> To use RISC-V Core Verilog netlist and testbench for functional simulation experiment.</li>
@@ -138,3 +140,41 @@ Task 4 involves completion of the following tasks
 </h4>
   </detail>
  <hr> <hr>
+<details>
+
+
+  
+<summary> <h2> TASK 5</h2>
+<h3> To create a project using VSDSquadron Mini </h3></summary>
+Task 5 involves the folowing steps:
+<br>
+<ol>
+  <li> To make a project using VSDSquadron.</li>
+  <li>  To upload the overview,components required, circuit connection, pinout diagram and table for Pin connection on GitHub. </li>
+</ol>
+<h4>
+ OVERVIEW
+  <br>
+  <OL>
+    <li>
+      Check if GTKWave is installed else install it.</li>
+      <li>Create a directory using mkdir.</li>
+     <li>Create two files one for writing the code and other for writing testbench for it.</li>
+      <img src="task41.png">
+    <br>
+      <li>Photos of the code and testbench written.</li>
+      <img src="code4.png">
+    <br>
+     <img src="tb4.png">
+    <br>
+      <li>Enter the following instructions shown in image below.This code is written to simulate verilog code </li>
+      <img src="task42.png"> <br>
+      <li>Use GTKWave to see the simulation by writing the below code.</li>
+      <img src="task43.png"> <br>
+      <li>Simulation output.</li>
+      <img src="task44.png"> <br>
+        <img src="task45.png">
+  </OL>
+</h4>
+  </detail>
+ 
