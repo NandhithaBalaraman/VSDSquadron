@@ -14,11 +14,17 @@ The task 1 includes completion of the following instructions
 <br>
 <ol>
   <li> Creating GitHub repo. </li>
+  <br>
   <li> Installation of Oracle VirtualBox. </li>
+  <br>
   <li> Installation of RISC-V toolchain using VDI. </li>
+  <br>
   <li> Writing C program to find sum of n numbers. </li>
+  <br>
   <li> Using RISC-V Simulator for compiling and running the code. </li>
+  <br>
   <li> Uploading the snapshots </li>
+  <br>
 </ol>
 <h4>
   STEPS:
@@ -142,7 +148,7 @@ Task 4 involves completion of the following tasks
 <details>
 <summary> <h2> TASK 5</h2>
 <h3> To create a project using VSDSquadron Mini </h3></summary>
-Task 5 involves the folowing steps:
+<h3> Task 5 involves the folowing steps: </h3>
 <br>
   
 <ol>
@@ -152,20 +158,37 @@ Task 5 involves the folowing steps:
 <h4>
  <b>OVERVIEW:</b>
   <br>
+  <br>
 The Advanced Easy-to-Use Burglar Alarm employs an ultrasonic radar sensor to detect objects moving within its view, triggering a passive buzzer to alert the user of any intrusion. Unlike laser-based systems that use an LDR and require precise alignment and complex setup, this alarm is simple to install. It needs only to be placed facing a solid surface within a 0.1–4 meter range. On activation, its LED lights up briefly, during which it automatically measures the distance to the surface and sets this as its detection threshold. After setup, any object passing through its field activates the buzzer. Powered by a 5V DC source, it can run via adapter or battery pack for flexibility.
+  <br>
    <OL>
+     <br>
+     <br>
      Components Required
+     <br>
+     <br>
   <li> VSD Squadron Mini developement board </li>
+     <br>
 <li>Male USB C Cable</li>
+     <br>
 <li> HC-SR04 Ultrasonic Sensor </li>
+     <br>
 <li> Bread Board </li>
+     <br>
 <li> Male to Male; Male to Female jumper cable </li>
+     <br>
 <li> Red LED </li>
+     <br>
 <li> Passive Buzzer </li>
-<li>220 Ohm Resistor </li>
+     <br>
+<li>220 Ohm Resistor </li> 
+     <br>
 <li>Toggle Switch</li>
+     <br>
   </OL>
+  </h4>
+  The pin diagram and the pin connections are given below:
   
-</h4>
+  
   </details>
  
