@@ -144,6 +144,7 @@ Task 4 involves completion of the following tasks
 <h3> To create a project using VSDSquadron Mini </h3></summary>
 Task 5 involves the folowing steps:
 <br>
+  
 <ol>
   <li> To make a project using VSDSquadron.</li>
   <li>  To upload the overview,components required, circuit connection, pinout diagram and table for Pin connection on GitHub. </li>
@@ -151,26 +152,20 @@ Task 5 involves the folowing steps:
 <h4>
  <b>OVERVIEW:</b>
   <br>
-  <OL>
-    <li>
-      Check if GTKWave is installed else install it.</li>
-      <li>Create a directory using mkdir.</li>
-     <li>Create two files one for writing the code and other for writing testbench for it.</li>
-      <img src="task41.png">
-    <br>
-      <li>Photos of the code and testbench written.</li>
-      <img src="code4.png">
-    <br>
-     <img src="tb4.png">
-    <br>
-      <li>Enter the following instructions shown in image below.This code is written to simulate verilog code </li>
-      <img src="task42.png"> <br>
-      <li>Use GTKWave to see the simulation by writing the below code.</li>
-      <img src="task43.png"> <br>
-      <li>Simulation output.</li>
-      <img src="task44.png"> <br>
-        <img src="task45.png">
+The Advanced Easy-to-Use Burglar Alarm employs an ultrasonic radar sensor to detect objects moving within its view, triggering a passive buzzer to alert the user of any intrusion. Unlike laser-based systems that use an LDR and require precise alignment and complex setup, this alarm is simple to install. It needs only to be placed facing a solid surface within a 0.1–4 meter range. On activation, its LED lights up briefly, during which it automatically measures the distance to the surface and sets this as its detection threshold. After setup, any object passing through its field activates the buzzer. Powered by a 5V DC source, it can run via adapter or battery pack for flexibility.
+   <OL>
+     Components Required
+  <li> VSD Squadron Mini developement board </li>
+<li>Male USB C Cable</li>
+<li> HC-SR04 Ultrasonic Sensor </li>
+<li> Bread Board </li>
+<li> Male to Male; Male to Female jumper cable </li>
+<li> Red LED </li>
+<li> Passive Buzzer </li>
+<li>220 Ohm Resistor </li>
+<li>Toggle Switch</li>
   </OL>
+  
 </h4>
   </details>
  
