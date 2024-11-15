@@ -271,7 +271,8 @@ The Advanced Easy-to-Use Burglar Alarm employs an ultrasonic radar sensor to det
   </OL>
   </h4>
   The pin diagram and the pin connections are given below:
-  
+  <img src="task51.png">
+  <img src="task52.png">
   
   </details>
  
