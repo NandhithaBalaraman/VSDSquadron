@@ -185,7 +185,7 @@ rd: Destination register (5 bits, typically used for the return address in some 
 imm: Immediate value (20 bits, split into multiple fields)
 
 15 Unique Instructions and Their 32-bit Machine Code:
-
+<img src="riscv inst.png"> 
 
 
 
