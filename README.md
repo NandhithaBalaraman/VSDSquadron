@@ -299,6 +299,41 @@ It is a key component in arithmetic circuits like ripple-carry adders, enabling 
   <img src="TASK52 (2).png">
   <img src="TASK53.png"> </h4> 
   <h4><b>
+    <code>
+      
+#define  UART_MODULE_ENABLED
+#define I2C_MODULE_ENABLED
+#define ADC_MODULE_ENABLED
+#define SPI_MODULE_ENABLED
+// LED connected to PD6 (onboard LED)
+// Define the pins
+#define A_PIN PD1
+#define B_PIN PD2
+#define CIN_PIN PD3
+#define SUM_PIN PC4
+#define COUT_PIN PC5
+void setup() {
+  // Configure input pins
+  pinMode(A_PIN, INPUT);
+  pinMode(B_PIN, INPUT);
+  pinMode(CIN_PIN, INPUT);
+  // Configure output pins
+  pinMode(SUM_PIN, OUTPUT);
+  pinMode(COUT_PIN, OUTPUT);
+}
+void loop() {
+  // Read inputs
+  int A = digitalRead(A_PIN);
+  int B = digitalRead(B_PIN);
+  int Cin = digitalRead(CIN_PIN);
+  // Calculate Sum and Cout
+  int Sum = A ^ B ^ Cin; // XOR for Sum
+  int Cout = (A & B) | (Cin & (A ^ B)); // AND/OR for Cout
+  // Set output pins
+  digitalWrite(SUM_PIN, Sum);
+  digitalWrite(COUT_PIN, Cout);
+}
+  </code> 
 Applications of Full Adder
 <OL>
 <br>    
@@ -322,10 +357,16 @@ Applications of Full Adder
 <details>
 <summary> <h2> TASK 6</h2>
 <h3> To upload the video of the project. </h3> </summary>
-<h3> Task 5 involves the folowing steps: </h3>
+<h3> Task 6 involves the folowing steps: </h3>
 <br>
   
 <ol>
   <li> To make a video of the project.</li>
   <li>  To upload the video on Github. </li>
 </ol>
+
+
+<h3>VIDEO:</h3>
+
+
+<h3>CONCLUSION</h3>
