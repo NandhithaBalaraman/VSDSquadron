@@ -242,7 +242,37 @@ Task 4 involves completion of the following tasks
  <b>OVERVIEW:</b>
   <br>
   <br>
-The Advanced Easy-to-Use Burglar Alarm employs an ultrasonic radar sensor to detect objects moving within its view, triggering a passive buzzer to alert the user of any intrusion. Unlike laser-based systems that use an LDR and require precise alignment and complex setup, this alarm is simple to install. It needs only to be placed facing a solid surface within a 0.1–4 meter range. On activation, its LED lights up briefly, during which it automatically measures the distance to the surface and sets this as its detection threshold. After setup, any object passing through its field activates the buzzer. Powered by a 5V DC source, it can run via adapter or battery pack for flexibility.
+A Full Adder is a digital circuit that adds three binary inputs: two significant bits (A and B) and a carry-in (Cin). It outputs a Sum and a carry-out (Cout). The logic is defined as:
+
+Sum = 
+𝐴
+⊕
+𝐵
+⊕
+𝐶
+𝑖
+𝑛
+A⊕B⊕Cin (XOR operation).
+Cout = 
+(
+𝐴
+⋅
+𝐵
+)
++
+(
+𝐶
+𝑖
+𝑛
+⋅
+(
+𝐴
+⊕
+𝐵
+)
+)
+(A⋅B)+(Cin⋅(A⊕B)) (AND/OR operation).
+It is a key component in arithmetic circuits like ripple-carry adders, enabling multi-bit binary addition. Commonly used in processors and ALUs, it plays a vital role in performing binary arithmetic operations.
   <br>
    <OL>
      <br>
@@ -252,27 +282,26 @@ The Advanced Easy-to-Use Burglar Alarm employs an ultrasonic radar sensor to det
      <br>
   <li> VSD Squadron Mini developement board </li>
      <br>
-<li>Male USB C Cable</li>
+<li>USB C Cable</li>
      <br>
-<li> HC-SR04 Ultrasonic Sensor </li>
+<li> Push button </li>
      <br>
 <li> Bread Board </li>
      <br>
 <li> Male to Male; Male to Female jumper cable </li>
      <br>
-<li> Red LED </li>
-     <br>
-<li> Passive Buzzer </li>
-     <br>
-<li>220 Ohm Resistor </li> 
-     <br>
-<li>Toggle Switch</li>
+<li> Red LED and green LED</li>
      <br>
   </OL>
   </h4>
   The pin diagram and the pin connections are given below:
   <img src="task51.png">
   <img src="task52.png">
-  
+
+
+
+
+
+
   </details>
  
