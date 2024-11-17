@@ -95,8 +95,8 @@ Tansk 2 involves completion of the following tasks
 </details>
  <hr> <hr>
  <details>
-<summary> <h2> TASK 3</h2></summary>
-<h3>To understand the instruction type and find out instruction type used in previous RISC-V objdump.To find exact 32 bit instruction code. </h3>
+<summary> <h2> TASK 3</h2>
+<h3>To understand the instruction type and find out instruction type used in previous RISC-V objdump.To find exact 32 bit instruction code. </h3></summary>
 Task 3 involves completion of the following tasks
 <br>
 <ol>
@@ -230,7 +230,7 @@ Task 4 involves completion of the following tasks
 <hr><hr>
 <details>
 <summary> <h2> TASK 5</h2>
-<h3> To create a project using VSDSquadron Mini </h3></summary>
+<h3> To create a project using VSDSquadron Mini </h3> </summary>
 <h3> Task 5 involves the folowing steps: </h3>
 <br>
   
@@ -294,14 +294,28 @@ It is a key component in arithmetic circuits like ripple-carry adders, enabling 
      <br>
   </OL>
   </h4>
-  The pin diagram and the pin connections are given below:
-  <img src="task51.png">
-  <img src="task52.png">
-
-
-
-
-
-
+<h4> The pin diagram and the pin connections are given below:
+  <img src="TASK51 (2).png">
+  <img src="TASK52 (2).png">
+  <img src="TASK53.png"> </h4> 
+  <h4><b>
+Applications of Full Adder
+<OL>
+<br>    
+<li>Multi-Bit Binary Addition: Used in ripple-carry adders to add binary numbers with more than one bit.</li>
+<br>
+<li>Arithmetic Logic Units (ALUs): Forms the foundation of arithmetic operations in processors.</li>
+<br>
+<li>Binary Multiplication: Helps in generating partial products for binary multiplication.</li>
+<br>
+<li>Digital Signal Processing: Facilitates arithmetic computations in filters and transforms.</li>
+<br>
+<li>Error Detection and Correction: Plays a role in checksums and other algorithms in communication systems.</li>
+<br>
+<li>Data Encryption: Used in bit-wise operations within cryptographic algorithms.</li>
+<br>
+<li>Embedded Systems: Integral to control units and arithmetic operations in microcontrollers.</li>
+</OL>   
+  </b></h4>
   </details>
  
