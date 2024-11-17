@@ -318,4 +318,14 @@ Applications of Full Adder
 </OL>   
   </b></h4>
   </details>
- 
+ <hr><hr>
+<details>
+<summary> <h2> TASK 6</h2>
+<h3> To upload the video of the project. </h3> </summary>
+<h3> Task 5 involves the folowing steps: </h3>
+<br>
+  
+<ol>
+  <li> To make a video of the project.</li>
+  <li>  To upload the video on Github. </li>
+</ol>
