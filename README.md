@@ -366,7 +366,7 @@ Applications of Full Adder
 </ol>
 <br>
 <h3>VIDEO:</h3>
-<video> <source src="internship_video.mp4"> </video>
+<a href="https://drive.google.com/file/d/1-CpyeXVj2u8IxucOdjbWfYfybVLiqSFM/view?usp=drive_link"> </a>
 
 <h3>INFERENCE </h3>
 <br>
