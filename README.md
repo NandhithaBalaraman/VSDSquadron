@@ -392,6 +392,9 @@ Applications of Full Adder
 <h3>CONCLUSION</h3>
 <br>
 The demonstration of full adder circuit using VSD Squadron mini is observed. 
+</details>
 <hr><hr>
-
+<details>
+  <h2> ACKNOWLEDGMENT</h2>
+<h3> I sincerely thank Kunal Ghosh Sir for the opportunity to explore RISCV Architecture through this internship with the VSDSquadron Mini. It has been an inspiring introduction to the field, sparking my curiosity and enhancing my skills. I am also grateful to VLSI System Design for offering such a meaningful learning experience that has shaped my growth. </h3>
 
