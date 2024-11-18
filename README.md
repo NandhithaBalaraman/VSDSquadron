@@ -364,9 +364,28 @@ Applications of Full Adder
   <li> To make a video of the project.</li>
   <li>  To upload the video on Github. </li>
 </ol>
-
-
+<br>
 <h3>VIDEO:</h3>
+<video> <source src="internship_video.mp4"> </video>
+
+<h3>INFERENCE </h3>
+<br>
+<OL>
+<li> IT IS ZERO WHEN THE PUSH BUTTON IS PRESSED</li>
+  <br>
+<li>HERE THE RED LED REPRESENTS SUM AND GREEN LED REPRESENTS CARRY</li>
+<br>
+<li>WE CAN OBSERVE THAT WHEN THE BUTTONS ARE NOT PRESSED IT IS 111. ACCORDING TO THE TRUTH TABLE THE OUTPUT IS 1 1. SO THE RED LED AND GREEN LED IS TURNED ON </li>
+<br>
+<li>WHEN THE INPUT IS 000, THE OUTPUT IS 0 0. HENCE THE LED DOESN'T GLOW</li>
+<br>
+<li>WHEN INPUT IS 001 THE OUTPUT IS 1 0. HENCE THE RED LED GLOWS.</li>
+<br>
+<li>WHEN THE INPUT IS 011, THE OUTPUT IS 0 1. THEREFORE GREEN LED GLOWS</li>
+<br>
+</OL>
 
 
 <h3>CONCLUSION</h3>
+<br>
+The demonstration of full adder circuit using VSD Squadron mini is observed. 
