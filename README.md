@@ -366,7 +366,10 @@ Applications of Full Adder
 </ol>
 <br>
 <h3>VIDEO:</h3>
-<a href="https://drive.google.com/file/d/1-CpyeXVj2u8IxucOdjbWfYfybVLiqSFM/view?usp=drive_link"> </a>
+<a href="https://drive.google.com/file/d/1-CpyeXVj2u8IxucOdjbWfYfybVLiqSFM/view?usp=drive_link" target="_blank">
+    Video link
+</a>
+
 
 <h3>INFERENCE </h3>
 <br>
@@ -384,8 +387,11 @@ Applications of Full Adder
 <li>WHEN THE INPUT IS 011, THE OUTPUT IS 0 1. THEREFORE GREEN LED GLOWS</li>
 <br>
 </OL>
-
+<br>
 
 <h3>CONCLUSION</h3>
 <br>
 The demonstration of full adder circuit using VSD Squadron mini is observed. 
+<hr><hr>
+
+
